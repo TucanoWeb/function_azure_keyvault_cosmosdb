@@ -46,7 +46,7 @@ Ex.
 
 create the environment into "environments menu" in the functions, on the azure platform:
 
-COSMOS_ENDPOINT_KV = @Microsoft.KeyVault(SecretUri=https://kv-webapp.vault.azure.net/secrets/COSMOSENDPOINT/)
+COSMOS_ENDPOINT_KV = COSMOSENDPOINT
 
 In the root of the project:
 
